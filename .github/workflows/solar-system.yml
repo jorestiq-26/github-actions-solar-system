@@ -95,5 +95,3 @@
             echo "kubectl returned $?"
             kubectl -n default get pod
             sleep 10
-
-    
